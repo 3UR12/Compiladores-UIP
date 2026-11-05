@@ -1,0 +1,2 @@
+entero edad = 21;
+imprimir(@edad);
