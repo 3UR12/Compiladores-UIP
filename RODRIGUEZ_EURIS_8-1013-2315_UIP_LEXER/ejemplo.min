@@ -1,0 +1,6 @@
+entero edad = 21;
+decimal promedio = 92.5;
+// Evaluación del estudiante
+si (edad >= 18 && promedio >= 90) {
+    imprimir("Aprobado");
+}
