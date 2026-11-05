@@ -1,3 +1,0 @@
-entero base = 2;
-entero exponente = 3;
-imprimir(base ** exponente);
